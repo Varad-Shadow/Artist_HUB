@@ -224,7 +224,7 @@ npx firebase-tools@latest deploy \
 
 ## 📄 License
 
-This project is **proprietary and private**, maintained by the Artist HUB team.
+This project is **proprietary and private**, maintained by the MyKalakar team.
 
 ---
 
